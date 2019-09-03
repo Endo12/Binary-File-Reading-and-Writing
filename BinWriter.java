@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.Scanner;
-public class Assignment6B //Soham Nagaokar
+public class BinWriter //Soham Nagaokar
 {
 	public static void main( String [] args ) //Program reads a binary file and displays the data
 	{
