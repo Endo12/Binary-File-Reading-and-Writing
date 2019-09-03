@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.Scanner;
-public class Assignment6A //Soham Nagaokar
+public class BinReader //Soham Nagaokar
 {
 	public static void main ( String [] args ) //The program will read certain data from a text document and copy the data to a binary file
 	{
